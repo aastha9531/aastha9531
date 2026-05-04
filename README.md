@@ -1,17 +1,17 @@
-Hi there! I'm aastha.
+Hi there! I'm Aastha.
 
-a cse undergrad, interested in building strong fundamentals in CSE and exploring how things work from the ground up.
+a CSE undergrad, interested in building strong fundamentals in CSE and exploring how things work from the ground up.
 
 ---
 
-### learning
+### Learning
 
 - c / c++
 - data structures & algorithms(DSA) 
 - web development
 ---
 
-### interests
+### Interests
 
 - software engineering
 - problem solving
@@ -20,6 +20,6 @@ a cse undergrad, interested in building strong fundamentals in CSE and exploring
 
 ---
 
-### contact
+### Contact
 
 - github: https://github.com/aastha9531
